@@ -14,6 +14,8 @@ In your browser, open the file:
 
 Screenshots:
 
+![snap1](https://cloud.githubusercontent.com/assets/24657693/23836321/33304174-079c-11e7-8363-e314635bd9ed.PNG)
+
 ![snap2](https://cloud.githubusercontent.com/assets/24657693/23836318/32cfe2ca-079c-11e7-8fb7-27ded09c92b5.PNG)
 
 ![snap3](https://cloud.githubusercontent.com/assets/24657693/23836320/32ff5758-079c-11e7-8bf8-419ae00516a3.PNG)
@@ -22,5 +24,5 @@ Screenshots:
 
 ![snap5](https://cloud.githubusercontent.com/assets/24657693/23836322/33310186-079c-11e7-9b75-60f6f6bd21c1.PNG)
 
-![snap1](https://cloud.githubusercontent.com/assets/24657693/23836321/33304174-079c-11e7-8363-e314635bd9ed.PNG)
+
 
